@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.square {
+  background-color: rgb(118, 161, 190);
+  display: flexbox;
+  flex-direction: column;
+}
